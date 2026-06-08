@@ -1,4 +1,4 @@
-# Hi, I'm Alekhya Kummitha 👋
+# Hi, I'm Alekhya Kummitha 
 
 I'm a Computer Science graduate with experience in machine learning, database administration, and software development. I enjoy working on projects that combine problem-solving, data, and practical technology solutions.
 
