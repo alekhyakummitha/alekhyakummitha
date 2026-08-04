@@ -19,6 +19,7 @@ I'm passionate about building intelligent software using **Artificial Intelligen
 </p>
 
 ---
+---
 
 ## 🚀 About Me
 
