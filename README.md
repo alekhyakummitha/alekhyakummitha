@@ -8,7 +8,21 @@ I'm passionate about building intelligent software using **Artificial Intelligen
 ---
 
 ## 🚀 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alekhyakummitha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alekhyakummitha&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekhyakummitha&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alekhyakummitha&theme=tokyonight" alt="GitHub Streak" />
+</p>
 - 🎓 Master's in Computer Science (GPA: **3.9/4.0**)
 - 💼 Former Database Administrator with experience in SQL and MongoDB
 - 🤖 Passionate about AI, Machine Learning, Software Engineering, and Data-Driven Solutions
