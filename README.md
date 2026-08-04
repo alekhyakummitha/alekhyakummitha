@@ -7,19 +7,15 @@ I'm passionate about building intelligent software using **Artificial Intelligen
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alekhyakummitha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=alekhyakummitha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alekhyakummitha&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=alekhyakummitha&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekhyakummitha&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alekhyakummitha&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alekhyakummitha&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 ## 🚀 About Me
 
