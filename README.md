@@ -17,7 +17,7 @@ I'm passionate about building intelligent software using **Artificial Intelligen
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alekhyakummitha&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 Master's in Computer Science (GPA: **3.9/4.0**)
 - 💼 Former Database Administrator with experience in SQL and MongoDB
