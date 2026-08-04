@@ -1,7 +1,7 @@
 # Hi there, I'm Alekhya Kummitha 👋
 
 🎓 Master of Science in Computer Science | Montclair State University  
-💻 Software Engineer • Machine Learning Enthusiast • Data Scientist
+💻 Software Engineer • Machine Learning Engineer • Data Scientist
 
 I'm passionate about building intelligent software using **Artificial Intelligence, Machine Learning, Deep Learning, Reinforcement Learning, and Data Engineering**. I enjoy solving real-world problems through technology and continuously improving my skills by building practical projects.
 
