@@ -19,13 +19,14 @@ I'm passionate about building intelligent software using **Artificial Intelligen
 </p>
 
 ---
-##🚀 About Me
+
+## 🚀 About Me
 
 - 🎓 Master's in Computer Science (GPA: **3.9/4.0**)
 - 💼 Former Database Administrator with experience in SQL and MongoDB
 - 🤖 Passionate about AI, Machine Learning, Software Engineering, and Data-Driven Solutions
 - 🌱 Currently building real-world software projects and expanding my GitHub portfolio
-- 📚 Always learning new technologies and best engineering practices
+- 📚 Always learning new technologies and software engineering best practices
 
 ---
 
