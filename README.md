@@ -6,8 +6,6 @@
 I'm passionate about building intelligent software using **Artificial Intelligence, Machine Learning, Deep Learning, Reinforcement Learning, and Data Engineering**. I enjoy solving real-world problems through technology and continuously improving my skills by building practical projects.
 
 ---
-
-## 🚀 About Me
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alekhyakummitha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -23,6 +21,8 @@ I'm passionate about building intelligent software using **Artificial Intelligen
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=alekhyakummitha&theme=tokyonight" alt="GitHub Streak" />
 </p>
+## 🚀 About Me
+
 - 🎓 Master's in Computer Science (GPA: **3.9/4.0**)
 - 💼 Former Database Administrator with experience in SQL and MongoDB
 - 🤖 Passionate about AI, Machine Learning, Software Engineering, and Data-Driven Solutions
