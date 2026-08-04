@@ -1,61 +1,135 @@
-# Hi, I'm Alekhya Kummitha 
+# Hi there, I'm Alekhya Kummitha 👋
 
-I'm a Computer Science graduate with experience in machine learning, database administration, and software development. I enjoy working on projects that combine problem-solving, data, and practical technology solutions.
+🎓 Master of Science in Computer Science | Montclair State University  
+💻 Software Engineer • Machine Learning Enthusiast • Data Scientist
 
-My project work includes reinforcement learning, deep learning, transfer learning, SQL, and database management. I am currently building my GitHub portfolio to showcase my academic projects, technical skills, and hands-on learning.
+I'm passionate about building intelligent software using **Artificial Intelligence, Machine Learning, Deep Learning, Reinforcement Learning, and Data Engineering**. I enjoy solving real-world problems through technology and continuously improving my skills by building practical projects.
 
-## About Me
+---
 
-* Master of Science in Computer Science graduate
-* Experience in database administration and technical support
-* Interested in Software Engineering, AI/ML, Automation, Database Systems, and IT Operations
-* Passionate about learning new technologies and building practical solutions
+## 🚀 About Me
 
-## Technical Skills
+- 🎓 Master's in Computer Science (GPA: **3.9/4.0**)
+- 💼 Former Database Administrator with experience in SQL and MongoDB
+- 🤖 Passionate about AI, Machine Learning, Software Engineering, and Data-Driven Solutions
+- 🌱 Currently building real-world software projects and expanding my GitHub portfolio
+- 📚 Always learning new technologies and best engineering practices
 
-**Programming Languages:** Python, SQL, C
-**Databases:** MySQL, MongoDB
-**Machine Learning:** CNN, Deep Learning, Transfer Learning, Reinforcement Learning
-**Libraries & Tools:** NumPy, Pandas, Scikit-learn, Matplotlib, TensorFlow/Keras
-**Other Skills:** Data preprocessing, model evaluation, database security, backup and recovery, user access management
+---
 
-## Featured Projects
+## 💻 Tech Stack
 
-### Reinforcement Learning Based Adaptive Routing for Software Defined Networks
+### Languages
+- Python
+- SQL
+- C
 
-Developed a Q-learning based adaptive routing approach for Software Defined Networks to improve path selection, resilience, and fault recovery under changing network conditions.
+### Machine Learning & AI
+- TensorFlow
+- PyTorch
+- Scikit-learn
+- NumPy
+- Pandas
+- Deep Learning
+- Convolutional Neural Networks (CNN)
+- Transfer Learning
+- Reinforcement Learning
 
-### Depression Detection using EEG Signals
+### Databases
+- MySQL
+- MongoDB
 
-Built a deep learning based EEG classification model and compared CNN performance with an SVM baseline for depression detection.
+### Tools
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
 
-### Transfer Learning for Maxillofacial Fracture Detection
+---
 
-Used CNN/ResNet50-based transfer learning to classify CT scan images for fracture detection and improve medical image classification performance.
+# 🚀 Featured Projects
 
-### SQL and Database Administration Portfolio
+## 🚦 Adaptive Routing for Software Defined Networks
 
-Created SQL queries and database administration notes covering reporting queries, data cleaning, user access management, backup and recovery, and database security.
+Developed a **Q-Learning-based adaptive routing framework** for Software Defined Networks (SDNs) to improve routing resilience, fault recovery, and intelligent path selection under changing network conditions.
 
-## Currently Working On
+**Tech Stack:** Python • Reinforcement Learning • Q-Learning • Network Simulation
 
-* Building a stronger GitHub portfolio
-* Improving coding and project documentation skills
-* Learning more about automation, AI tools, and real-world software development workflows
+---
 
-## Career Interests
+## 🧠 Depression Detection Using EEG Signals
 
-I am interested in entry-level opportunities and internships in:
+Designed and implemented a **CNN-based deep learning model** for depression detection using EEG signals.
 
-* Software Engineering
-* AI/ML
-* Automation
-* Database Administration
-* IT Support / IT Operations
-* Data-focused technical roles
+### Highlights
+- ✅ Achieved **93% classification accuracy**
+- ✅ Outperformed a traditional SVM baseline
+- ✅ Applied preprocessing and feature engineering for improved model performance
 
-## Connect With Me
+**Tech Stack:** Python • TensorFlow • CNN • Deep Learning
 
-* LinkedIn: https://www.linkedin.com/in/kummitha-alekhya-71873a227/
-* Email: alekhyakummitha24@gmail.com
+---
 
+## 🩺 Automated Maxillofacial Fracture Detection
+
+Built an automated fracture detection system using **ResNet50 Transfer Learning** on CT scan images.
+
+### Highlights
+- ✅ Achieved **96% classification accuracy**
+- ✅ Automated image preprocessing and prediction pipeline
+- ✅ Improved medical image classification using transfer learning
+
+**Tech Stack:** Python • TensorFlow • ResNet50 • Transfer Learning
+
+---
+
+## 🗄️ SQL & Database Administration
+
+Worked on enterprise database administration and reporting.
+
+### Experience Includes
+
+- SQL Query Optimization
+- Database Security
+- Backup & Recovery
+- User Access Management
+- MongoDB Administration
+- Data Cleaning & Reporting
+
+---
+
+# 🌱 Currently Learning
+
+- Java Backend Development
+- Cloud Computing
+- Software Design Patterns
+- Large Language Models (LLMs)
+- AI Applications
+- Automation & Workflow Engineering
+
+---
+
+# 🎯 Career Interests
+
+- Software Engineering
+- Machine Learning Engineering
+- AI Engineering
+- Data Science
+- Backend Development
+- Database Engineering
+
+---
+
+# 📫 Connect With Me
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/kummitha-alekhya-71873a227/
+
+📧 **Email**  
+alekhyakummitha24@gmail.com
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
+
+Feel free to explore my repositories, check out my projects, and connect with me. I'm always open to learning, collaborating, and building impactful technology.
